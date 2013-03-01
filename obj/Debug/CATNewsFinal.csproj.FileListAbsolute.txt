@@ -1,0 +1,28 @@
+c:\users\nayana\documents\visual studio 2010\Projects\CATNewsFinal\obj\Debug\ResolveAssemblyReference.cache
+c:\users\nayana\documents\visual studio 2010\Projects\CATNewsFinal\obj\Debug\App.g.i.cs
+c:\users\nayana\documents\visual studio 2010\Projects\CATNewsFinal\obj\Debug\Detailnews.g.i.cs
+c:\users\nayana\documents\visual studio 2010\Projects\CATNewsFinal\obj\Debug\CATNewsFinal.g.resources
+c:\users\nayana\documents\visual studio 2010\Projects\CATNewsFinal\Bin\Debug\ApplicationIcon.png
+c:\users\nayana\documents\visual studio 2010\Projects\CATNewsFinal\Bin\Debug\Background.png
+c:\users\nayana\documents\visual studio 2010\Projects\CATNewsFinal\Bin\Debug\CATNewsFinal.dll
+c:\users\nayana\documents\visual studio 2010\Projects\CATNewsFinal\Bin\Debug\CATNewsFinal.pdb
+c:\users\nayana\documents\visual studio 2010\Projects\CATNewsFinal\Bin\Debug\AppManifest.xaml
+c:\users\nayana\documents\visual studio 2010\Projects\CATNewsFinal\Bin\Debug\CATNewsFinal.xap
+c:\users\nayana\documents\visual studio 2010\Projects\CATNewsFinal\obj\Debug\CATNewsFinal.dll
+c:\users\nayana\documents\visual studio 2010\Projects\CATNewsFinal\obj\Debug\CATNewsFinal.pdb
+c:\users\nayana\documents\visual studio 2010\Projects\CATNewsFinal\obj\Debug\XapCacheFile.xml
+C:\Users\nayana\documents\visual studio 2010\Projects\CATNewsFinal\obj\Debug\MainPage.g.i.cs
+C:\Users\nayana\Desktop\CATNewsFinal\Bin\Debug\ApplicationIcon.png
+C:\Users\nayana\Desktop\CATNewsFinal\Bin\Debug\Background.png
+C:\Users\nayana\Desktop\CATNewsFinal\Bin\Debug\CATNewsFinal.dll
+C:\Users\nayana\Desktop\CATNewsFinal\Bin\Debug\CATNewsFinal.pdb
+C:\Users\nayana\Desktop\CATNewsFinal\Bin\Debug\AppManifest.xaml
+C:\Users\nayana\Desktop\CATNewsFinal\Bin\Debug\CATNewsFinal.xap
+C:\Users\nayana\Desktop\CATNewsFinal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nayana\Desktop\CATNewsFinal\obj\Debug\App.g.i.cs
+C:\Users\nayana\Desktop\CATNewsFinal\obj\Debug\Detailnews.g.i.cs
+C:\Users\nayana\Desktop\CATNewsFinal\obj\Debug\MainPage.g.i.cs
+C:\Users\nayana\Desktop\CATNewsFinal\obj\Debug\CATNewsFinal.g.resources
+C:\Users\nayana\Desktop\CATNewsFinal\obj\Debug\CATNewsFinal.dll
+C:\Users\nayana\Desktop\CATNewsFinal\obj\Debug\CATNewsFinal.pdb
+C:\Users\nayana\Desktop\CATNewsFinal\obj\Debug\XapCacheFile.xml
